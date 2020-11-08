@@ -1,2 +1,2 @@
-# c22-matter.js
-//contains matter.js//
+# staticSquare
+A static square made using Matter.js physics engine
